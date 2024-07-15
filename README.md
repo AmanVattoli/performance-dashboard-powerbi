@@ -5,7 +5,7 @@ The dashboard provides an interactive and comprehensive view of year-to-date (YT
 
 ## Features
 
-- **Interactive Filters**: Users can filter the data by metric categories (Gross Profit, Quantity, Sales) and select the year of interest (e.g., 2023).
+- **Interactive Filters**: Users can filter the data by metric categories (Gross Profit, Quantity, Sales) and select the year.
 - **Key Performance Indicators (KPIs)**: 
   - **YTD Metric**: Displays the total value of the selected metric (Gross Profit, Quantity, or Sales) year-to-date.
   - **PYTD Metric**: Shows the total value of the selected metric for the same period in the previous year.
