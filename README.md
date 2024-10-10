@@ -1,6 +1,6 @@
-# Plant Co. Performance Report Dashboard
+# Performance Report Dashboard
 
-This project is a Power BI dashboard that visualizes key performance indicators (KPIs) related to the financial performance of Plant Co., a fictional company.
+This project is a Power BI dashboard that visualizes key performance indicators (KPIs) related to the financial performance of a company.
 The dashboard provides an interactive and comprehensive view of year-to-date (YTD) and prior year-to-date (PYTD) performance metrics, segmented by various dimensions such as country, product type, and profitability. Users can switch between different metrics including Gross Profit, Quantity, and Sales.
 
 ## Features
