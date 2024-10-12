@@ -12,9 +12,9 @@ The dashboard provides an interactive and comprehensive view of year-to-date (YT
   - **YTD vs PYTD Difference**: Highlights the difference in the selected metric between the current year and the previous year.
   - **Gross Profit Percentage (GP%)**: Indicates the gross profit margin as a percentage.
 
-## Visualizations
+## Dashboard
 
-![image](https://github.com/user-attachments/assets/32ff4b31-9337-4bcc-afad-da70c9c099c6)
+![image](https://github.com/user-attachments/assets/fc3b28df-eaa3-447d-8d46-a193ab031459)
 
 
 1. **Bottom 10 by YTD vs PYTD | Country**:
